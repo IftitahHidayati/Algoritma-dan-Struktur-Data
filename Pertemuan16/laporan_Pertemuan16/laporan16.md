@@ -39,7 +39,7 @@
     * Class Main
     <img src="./ss/1.main1.PNG">
     <img src="./ss/1.main2.PNG">
-    <img src="./ss/1.main3.png">
+    <img src="./ss/1.main3.PNG">
     * Output No 1
     <img src="./ss/out1.1.PNG">
     <img src="./ss/out1.2.PNG">
